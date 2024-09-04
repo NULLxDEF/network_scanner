@@ -19,7 +19,7 @@ This Python script is a network scanner that identifies active devices within a 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/network-scanner.git
+    git clone https://github.com/NULLxDEF/network_scanner.git
     cd network-scanner
     ```
 
